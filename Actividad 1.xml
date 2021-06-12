@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Países>
+    <pais>
+        <nombre>Portugal</nombre>
+        <idioma>Portugués</idioma>
+        <prefijo>+32</prefijo>
+        <capital>
+            <nombre>Lisboa</nombre>
+            <n_hab>13 Millones</n_hab>
+        </capital>
+    </pais>
+    <pais>
+        <nombre>España</nombre>
+        <idioma>español</idioma>
+        <prefijo>+34</prefijo>
+        <capital>
+            <nombre>madrid</nombre>
+            <n_hab>12Millones</n_hab>
+        </capital>
+    </pais>
+    <pais>
+        <nombre>Filipinas</nombre>
+        <idioma>tagálog</idioma>
+        <prefijo>+63</prefijo>
+        <capital>
+            <nombre>manila</nombre>
+            <n_hab>1,78 Millones</n_hab>
+        </capital>
+    </pais>
+    <pais>
+        <nombre>Inglaterra</nombre>
+        <idioma>Inglés</idioma>
+        <prefijo>+44</prefijo>
+        <capital>
+            <nombre>Londres</nombre>
+            <n_hab>9 Millones</n_hab>
+        </capital>
+    </pais>
+    <pais>
+        <nombre>Singapur</nombre>
+        <idioma>Malayo</idioma>
+        <prefijo></prefijo>
+        <capital>
+            <nombre>Ciudad de Singapur</nombre>
+            <n_hab>5,7 Millones</n_hab>
+        </capital>
+    </pais>
+    <pais>
+        <nombre>Hong Kong</nombre>
+        <idioma>chino</idioma>
+        <prefijo>+852</prefijo>
+        <capital>
+            <nombre>City of Victoria</nombre>
+            <n_hab>7,5 Millones</n_hab>
+        </capital>
+    </pais>
+</Países>
+
+
+
+Actividad 2:
+
+<?xml version="1.0" encoding="UTF-8"?>
+<deportistas>
+ <deportista>
+ <deporte> Atletismo </deporte>
+ <nombre>Jesse Owens</nombre>
+ </deportista>
+ <deportista>
+ <deporte> Natación </deporte>
+ <nombre>Mark Spitz</nombre>
+ </deportista>
+</deportistas>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<peliculas>
+ <director>Billy Wilder</director>
+ <titulo>Con faldas y a lo loco</titulo>
+</pelicula>
+<pelicula>
+ <director>Leo McCarey</director>
+ <titulo>Sopa de ganso</titulo>
+ <autor>barto</autor>
+</pelicula>
+
+
+<comando>
+    <nombre>Sir Francis T. Woolridge</nombre>
+    <pais>Inglaterra</pais>
+    <graduacion>Soldado</graduacion>
+</comando>
+<comando>
+    <nombre>James Blackwood</nombre>
+    <alias>Marine</alias>
+    <pais>Australia</pais>
+    <graduacion>Soldado</graduacion>
+</comando>
+<comando>
+    <nombre>Thomas Hancock</nombre>
+    <alias>Zapador</alias>
+    <país>Inglaterra</pais>
+    <graduacion>Soldado</graduacion>
+</comando>

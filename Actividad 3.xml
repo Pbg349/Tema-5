@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<![CDATA[
+        public class HolaMundo {
+            public static void main(String[] args) {
+                System.out.println("Hola Mundo");
+            }
+        }
+]]>
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<![CDATA[
+        #include <iostream> using namespace std;
+        int main() {
+            cout << "Hola Mundo" << endl;
+            return 0;
+        }
+]]>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<![CDATA[
+    <!DOCTYPE html>
+    <html>
+        <head>
+            <title>Hola Mundo</title>
+            <meta name="author" value="Kevin Poulsen"/>
+        </head>
+    <body>
+        <h1>Hola</h1>
+        <p>Hola mundo!</p>
+        </body>
+    </html>
+]]>

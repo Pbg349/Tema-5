@@ -1,0 +1,43 @@
+<Equipos_Liga>
+    <Equipo>
+        <nombre>Manchester United</nombre>
+        <ciudad>Manchester</ciudad>
+        <entrenador>Nisepo Nisapo</entrenador>
+        <jugadores>
+            <jugador>
+                <nombre>Casemiro</nombre>
+                <posicion defensa="central"/>
+                <nacionalidad>Tampoco me acuerdo</nacionalidad>
+            </jugador>
+            <jugador>
+                <nombre>Cristiano Ronardo</nombre>
+                <posicion pichichi="Delaliga">
+                <nacionalidad>portugués</nacionalidad>
+        </jugadores>
+    </Equipo>
+    <Equipo>
+        <nombre>Manchester City</nombre>
+        <ciudad>Manchester</ciudad>
+        <entrenador>Nisepa Nisapa</entrenador>
+        <jugadores>
+            <jugador>
+                <nombre>Ozil</nombre>
+                <posicion defensa="central"/>
+                <nacionalidad>Marroquí</nacionalidad>
+            </jugador>
+            <jugador>
+                <nombre>Ronaldo el gordo</nombre>
+                <posicion pichichi="Delaliga">
+                <nacionalidad>portugués</nacionalidad>
+        </jugadores>
+    </Equipo>
+
+
+
+
+
+
+
+
+
+</Equipos_Liga>
